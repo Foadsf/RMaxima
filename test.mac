@@ -1,4 +1,4 @@
-
+/*some sample vectors*/
 load("/Users/Foad/ownCloud/My_activities/Modern Robotics- Stefano/libs/Maxima Language/Screw.mac")$
 
 W1:vec(1,2,4);
@@ -36,4 +36,3 @@ Skew(crosprod(A1,B1));
 ident(4);
 
 zeromatrix(4,4);
-
