@@ -1,4 +1,2 @@
-This is a toolbox dealing with the kinematics and dynamics of rigid multimodes, specially for robots, by means of screw theory written by Foad Sojoodi Farimani
-everyone is welcome to add more functions
-the code is inspired by 
-1. MATLAB code from (http://freesourcecode.net/matlabprojects/61460/screw-theory-toolbox-in-matlab#.Vxlh7JN940o) written by Hanfucius
+This is a toolbox written in Maxima language, dealing with the kinematics and dynamics of rigid multi-bodies, specially for robotic applications. the toolbox includes functions and methods of screw theory.
+This toolbox was initiated by Foad Sojoodi Farimani. But the code is inspired by MATLAB code from (http://freesourcecode.net/matlabprojects/61460/screw-theory-toolbox-in-matlab#.Vxlh7JN940o) written by Hanfucius

@@ -173,3 +173,11 @@ RdrgsToRMat(k1,T1):=block(
   K1:Skew(k1),
   ident(3)+sin(T1)*K1+(1-cos(T1))(K.K)
 )$
+
+
+/*
+this function takes the Plucker coordinates of the axis of rotation of a rigid body
+and the rotational velocity
+and a point in space attached to the rigid body
+and delivers the velocity of that point
+*/
