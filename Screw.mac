@@ -33,6 +33,7 @@ crosprod(V1,V2):= block(
   )
 )$
 
+Rodrigues(V, K, theta) := V * cos(theta) + crosprod(K, V) * sin(theta) + K * dotprod(K, V) * (1 - cos(that))$
 
 
 vec2screw(v,r):=block(
